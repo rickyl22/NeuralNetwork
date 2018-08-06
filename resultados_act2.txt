@@ -1,0 +1,275 @@
+Resultados con datos no igualados:
+
+Configuacion de dataset con 500 patrones y 2 neuronas: 
+Error de entrenamiento: 178720.915
+Error de prueba: 5188.589
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 500 patrones y 3 neuronas: 
+Error de entrenamiento: 173699.396
+Error de prueba: 5402.007
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 500 patrones y 4 neuronas: 
+Error de entrenamiento: 147367.004
+Error de prueba: 4058.966
+Flasos negativos: 1230
+Falsos positivos: 1521
+Configuacion de dataset con 500 patrones y 5 neuronas: 
+Error de entrenamiento: 149402.801
+Error de prueba: 4176.138
+Flasos negativos: 1105
+Falsos positivos: 1581
+Configuacion de dataset con 500 patrones y 6 neuronas: 
+Error de entrenamiento: 149854.811
+Error de prueba: 4258.724
+Flasos negativos: 1111
+Falsos positivos: 1582
+Configuacion de dataset con 500 patrones y 7 neuronas: 
+Error de entrenamiento: 177559.456
+Error de prueba: 5100.745
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 500 patrones y 8 neuronas: 
+Error de entrenamiento: 151133.975
+Error de prueba: 4034.392
+Flasos negativos: 1242
+Falsos positivos: 1534
+Configuacion de dataset con 500 patrones y 9 neuronas: 
+Error de entrenamiento: 138434.361
+Error de prueba: 3442.729
+Flasos negativos: 726
+Falsos positivos: 1458
+Configuacion de dataset con 500 patrones y 10 neuronas: 
+Error de entrenamiento: 98364.670
+Error de prueba: 2026.142
+Flasos negativos: 1281
+Falsos positivos: 128
+Configuacion de dataset con 1000 patrones y 2 neuronas: 
+Error de entrenamiento: 381769.421
+Error de prueba: 4766.373
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 1000 patrones y 3 neuronas: 
+Error de entrenamiento: 323105.949
+Error de prueba: 3623.368
+Flasos negativos: 284
+Falsos positivos: 2011
+Configuacion de dataset con 1000 patrones y 4 neuronas: 
+Error de entrenamiento: 392668.072
+Error de prueba: 4509.039
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 1000 patrones y 5 neuronas: 
+Error de entrenamiento: 364016.841
+Error de prueba: 3646.409
+Flasos negativos: 323
+Falsos positivos: 2003
+Configuacion de dataset con 1000 patrones y 6 neuronas: 
+Error de entrenamiento: 165698.946
+Error de prueba: 643.839
+Flasos negativos: 110
+Falsos positivos: 268
+Configuacion de dataset con 1000 patrones y 7 neuronas: 
+Error de entrenamiento: 303681.195
+Error de prueba: 3304.899
+Flasos negativos: 276
+Falsos positivos: 1803
+Configuacion de dataset con 1000 patrones y 8 neuronas: 
+Error de entrenamiento: 302008.409
+Error de prueba: 3303.404
+Flasos negativos: 262
+Falsos positivos: 1807
+Configuacion de dataset con 1000 patrones y 9 neuronas: 
+Error de entrenamiento: 331613.173
+Error de prueba: 3774.979
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 1000 patrones y 10 neuronas: 
+Error de entrenamiento: 320137.752
+Error de prueba: 3536.204
+Flasos negativos: 573
+Falsos positivos: 1820
+Configuacion de dataset con 2000 patrones y 2 neuronas: 
+Error de entrenamiento: 392341.331
+Error de prueba: 4522.255
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 2000 patrones y 3 neuronas: 
+Error de entrenamiento: 330401.926
+Error de prueba: 3630.204
+Flasos negativos: 291
+Falsos positivos: 2026
+Configuacion de dataset con 2000 patrones y 4 neuronas: 
+Error de entrenamiento: 384258.582
+Error de prueba: 4770.644
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 2000 patrones y 5 neuronas: 
+Error de entrenamiento: 393037.031
+Error de prueba: 4522.164
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 2000 patrones y 6 neuronas: 
+Error de entrenamiento: 323645.878
+Error de prueba: 3667.773
+Flasos negativos: 315
+Falsos positivos: 1976
+Configuacion de dataset con 2000 patrones y 7 neuronas: 
+Error de entrenamiento: 328729.998
+Error de prueba: 3698.438
+Flasos negativos: 328
+Falsos positivos: 1974
+Configuacion de dataset con 2000 patrones y 8 neuronas: 
+Error de entrenamiento: 364497.577
+Error de prueba: 3728.498
+Flasos negativos: 5000
+Falsos positivos: 0
+Configuacion de dataset con 2000 patrones y 9 neuronas: 
+Error de entrenamiento: 256156.469
+Error de prueba: 2176.623
+Flasos negativos: 1002
+Falsos positivos: 339
+Configuacion de dataset con 2000 patrones y 10 neuronas: 
+Error de entrenamiento: 330677.076
+Error de prueba: 3797.368
+Flasos negativos: 5000
+Falsos positivos: 0
+
+Resultados con datos igualados:
+
+Configuacion de dataset con 500 patrones igualados y 2 neuronas: 
+Error de entrenamiento: 204332.387
+Error de prueba: 4828.809
+Flasos negativos: 0
+Falsos positivos: 3784
+Configuacion de dataset con 500 patrones igualados y 3 neuronas: 
+Error de entrenamiento: 189550.113
+Error de prueba: 5384.247
+Flasos negativos: 0
+Falsos positivos: 3747
+Configuacion de dataset con 500 patrones igualados y 4 neuronas: 
+Error de entrenamiento: 170910.194
+Error de prueba: 6139.940
+Flasos negativos: 0
+Falsos positivos: 3746
+Configuacion de dataset con 500 patrones igualados y 5 neuronas: 
+Error de entrenamiento: 190494.218
+Error de prueba: 5285.007
+Flasos negativos: 0
+Falsos positivos: 3741
+Configuacion de dataset con 500 patrones igualados y 6 neuronas: 
+Error de entrenamiento: 164864.368
+Error de prueba: 6265.358
+Flasos negativos: 0
+Falsos positivos: 3748
+Configuacion de dataset con 500 patrones igualados y 7 neuronas: 
+Error de entrenamiento: 130273.040
+Error de prueba: 4312.090
+Flasos negativos: 3
+Falsos positivos: 2513
+Configuacion de dataset con 500 patrones igualados y 8 neuronas: 
+Error de entrenamiento: 128658.828
+Error de prueba: 4338.269
+Flasos negativos: 4
+Falsos positivos: 2504
+Configuacion de dataset con 500 patrones igualados y 9 neuronas: 
+Error de entrenamiento: 120852.450
+Error de prueba: 3857.528
+Flasos negativos: 6
+Falsos positivos: 2215
+Configuacion de dataset con 500 patrones igualados y 10 neuronas: 
+Error de entrenamiento: 119764.652
+Error de prueba: 3881.978
+Flasos negativos: 6
+Falsos positivos: 2203
+Configuacion de dataset con 1000 patrones igualados y 2 neuronas: 
+Error de entrenamiento: 393009.733
+Error de prueba: 8362.063
+Flasos negativos: 0
+Falsos positivos: 5000
+Configuacion de dataset con 1000 patrones igualados y 3 neuronas: 
+Error de entrenamiento: 380903.192
+Error de prueba: 7940.981
+Flasos negativos: 0
+Falsos positivos: 5000
+Configuacion de dataset con 1000 patrones igualados y 4 neuronas: 
+Error de entrenamiento: 341380.929
+Error de prueba: 6595.041
+Flasos negativos: 0
+Falsos positivos: 3886
+Configuacion de dataset con 1000 patrones igualados y 5 neuronas: 
+Error de entrenamiento: 356992.346
+Error de prueba: 6342.656
+Flasos negativos: 0
+Falsos positivos: 3805
+Configuacion de dataset con 1000 patrones igualados y 6 neuronas: 
+Error de entrenamiento: 251071.737
+Error de prueba: 4208.559
+Flasos negativos: 25
+Falsos positivos: 2381
+Configuacion de dataset con 1000 patrones igualados y 7 neuronas: 
+Error de entrenamiento: 225773.987
+Error de prueba: 3748.620
+Flasos negativos: 15
+Falsos positivos: 2086
+Configuacion de dataset con 1000 patrones igualados y 8 neuronas: 
+Error de entrenamiento: 242262.594
+Error de prueba: 4373.627
+Flasos negativos: 28
+Falsos positivos: 2400
+Configuacion de dataset con 1000 patrones igualados y 9 neuronas: 
+Error de entrenamiento: 224073.005
+Error de prueba: 3754.022
+Flasos negativos: 27
+Falsos positivos: 2043
+Configuacion de dataset con 1000 patrones igualados y 10 neuronas: 
+Error de entrenamiento: 225555.710
+Error de prueba: 3806.779
+Flasos negativos: 25
+Falsos positivos: 2066
+Configuacion de dataset con 2000 patrones igualados y 2 neuronas: 
+Error de entrenamiento: 788452.461
+Error de prueba: 7923.442
+Flasos negativos: 0
+Falsos positivos: 5000
+Configuacion de dataset con 2000 patrones igualados y 3 neuronas: 
+Error de entrenamiento: 538806.731
+Error de prueba: 4486.664
+Flasos negativos: 0
+Falsos positivos: 2533
+Configuacion de dataset con 2000 patrones igualados y 4 neuronas: 
+Error de entrenamiento: 606052.247
+Error de prueba: 6802.839
+Flasos negativos: 0
+Falsos positivos: 3725
+Configuacion de dataset con 2000 patrones igualados y 5 neuronas: 
+Error de entrenamiento: 599981.030
+Error de prueba: 6862.597
+Flasos negativos: 0
+Falsos positivos: 3727
+Configuacion de dataset con 2000 patrones igualados y 6 neuronas: 
+Error de entrenamiento: 495931.759
+Error de prueba: 4955.821
+Flasos negativos: 0
+Falsos positivos: 2671
+Configuacion de dataset con 2000 patrones igualados y 7 neuronas: 
+Error de entrenamiento: 507205.108
+Error de prueba: 4781.413
+Flasos negativos: 0
+Falsos positivos: 2533
+Configuacion de dataset con 2000 patrones igualados y 8 neuronas: 
+Error de entrenamiento: 507333.139
+Error de prueba: 4788.829
+Flasos negativos: 4
+Falsos positivos: 2498
+Configuacion de dataset con 2000 patrones igualados y 9 neuronas: 
+Error de entrenamiento: 295867.221
+Error de prueba: 2008.556
+Flasos negativos: 66
+Falsos positivos: 978
+Configuacion de dataset con 2000 patrones igualados y 10 neuronas: 
+Error de entrenamiento: 504100.406
+Error de prueba: 4841.282
+Flasos negativos: 0
+Falsos positivos: 2548

@@ -1,0 +1,391 @@
+Resultados con output binario:
+
+Configuacion de dataset con 50 y 4 neuronas: 
+Error de entrenamiento: 2617.784
+Error de prueba: 0.051
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 5 neuronas: 
+Error de entrenamiento: 642.398
+Error de prueba: 0.047
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 6 neuronas: 
+Error de entrenamiento: 465.149
+Error de prueba: 0.026
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 7 neuronas: 
+Error de entrenamiento: 830.397
+Error de prueba: 0.047
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 8 neuronas: 
+Error de entrenamiento: 898.599
+Error de prueba: 0.047
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 9 neuronas: 
+Error de entrenamiento: 1380.477
+Error de prueba: 0.027
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 50 y 10 neuronas: 
+Error de entrenamiento: 1091.573
+Error de prueba: 0.027
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 4 neuronas: 
+Error de entrenamiento: 1986.389
+Error de prueba: 0.033
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 5 neuronas: 
+Error de entrenamiento: 2755.113
+Error de prueba: 0.033
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 6 neuronas: 
+Error de entrenamiento: 979.912
+Error de prueba: 0.031
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 7 neuronas: 
+Error de entrenamiento: 1157.324
+Error de prueba: 0.031
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 8 neuronas: 
+Error de entrenamiento: 1776.545
+Error de prueba: 0.017
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 9 neuronas: 
+Error de entrenamiento: 877.944
+Error de prueba: 0.011
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 60 y 10 neuronas: 
+Error de entrenamiento: 2177.978
+Error de prueba: 0.032
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 4 neuronas: 
+Error de entrenamiento: 1444.845
+Error de prueba: 0.021
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 5 neuronas: 
+Error de entrenamiento: 982.694
+Error de prueba: 0.020
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 6 neuronas: 
+Error de entrenamiento: 1295.949
+Error de prueba: 0.020
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 7 neuronas: 
+Error de entrenamiento: 1076.733
+Error de prueba: 0.020
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 8 neuronas: 
+Error de entrenamiento: 808.472
+Error de prueba: 0.009
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 9 neuronas: 
+Error de entrenamiento: 2108.395
+Error de prueba: 0.020
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 70 y 10 neuronas: 
+Error de entrenamiento: 968.415
+Error de prueba: 0.009
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 4 neuronas: 
+Error de entrenamiento: 958.947
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 5 neuronas: 
+Error de entrenamiento: 1775.275
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 6 neuronas: 
+Error de entrenamiento: 1644.600
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 7 neuronas: 
+Error de entrenamiento: 1517.907
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 8 neuronas: 
+Error de entrenamiento: 1132.174
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 9 neuronas: 
+Error de entrenamiento: 7623.803
+Error de prueba: 0.014
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 80 y 10 neuronas: 
+Error de entrenamiento: 1962.185
+Error de prueba: 0.012
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 4 neuronas: 
+Error de entrenamiento: 723.803
+Error de prueba: 0.005
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 5 neuronas: 
+Error de entrenamiento: 1265.563
+Error de prueba: 0.005
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 6 neuronas: 
+Error de entrenamiento: 729.323
+Error de prueba: 0.003
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 7 neuronas: 
+Error de entrenamiento: 1226.874
+Error de prueba: 0.003
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 8 neuronas: 
+Error de entrenamiento: 957.800
+Error de prueba: 0.002
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 9 neuronas: 
+Error de entrenamiento: 1616.969
+Error de prueba: 0.005
+Flasos negativos: 0
+Falsos positivos: 0
+Configuacion de dataset con 90 y 10 neuronas: 
+Error de entrenamiento: 2005.935
+Error de prueba: 0.005
+Flasos negativos: 0
+Falsos positivos: 0
+
+Resultados con output triple:
+
+
+Configuacion de dataset con 50 y 4 neuronas: 
+Error de entrenamiento: 1344.781
+Error de prueba: 0.093
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 5 neuronas: 
+Error de entrenamiento: 14215.855
+Error de prueba: 0.139
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 6 neuronas: 
+Error de entrenamiento: 3702.936
+Error de prueba: 0.100
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 7 neuronas: 
+Error de entrenamiento: 2042.317
+Error de prueba: 0.095
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 8 neuronas: 
+Error de entrenamiento: 2836.720
+Error de prueba: 0.085
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 9 neuronas: 
+Error de entrenamiento: 4215.908
+Error de prueba: 0.102
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 50 y 10 neuronas: 
+Error de entrenamiento: 2972.249
+Error de prueba: 0.051
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 4 neuronas: 
+Error de entrenamiento: 2766.863
+Error de prueba: 0.066
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 5 neuronas: 
+Error de entrenamiento: 1528.470
+Error de prueba: 0.062
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 6 neuronas: 
+Error de entrenamiento: 10325.989
+Error de prueba: 0.080
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 7 neuronas: 
+Error de entrenamiento: 3867.699
+Error de prueba: 0.066
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 8 neuronas: 
+Error de entrenamiento: 3454.362
+Error de prueba: 0.066
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 9 neuronas: 
+Error de entrenamiento: 2229.406
+Error de prueba: 0.048
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 60 y 10 neuronas: 
+Error de entrenamiento: 5244.765
+Error de prueba: 0.059
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 4 neuronas: 
+Error de entrenamiento: 3024.848
+Error de prueba: 0.041
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 5 neuronas: 
+Error de entrenamiento: 5140.053
+Error de prueba: 0.043
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 6 neuronas: 
+Error de entrenamiento: 4590.511
+Error de prueba: 0.041
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 7 neuronas: 
+Error de entrenamiento: 5890.113
+Error de prueba: 0.042
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 8 neuronas: 
+Error de entrenamiento: 4517.641
+Error de prueba: 0.041
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 9 neuronas: 
+Error de entrenamiento: 3468.587
+Error de prueba: 0.039
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 70 y 10 neuronas: 
+Error de entrenamiento: 5536.939
+Error de prueba: 0.034
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 4 neuronas: 
+Error de entrenamiento: 11969.252
+Error de prueba: 0.030
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 5 neuronas: 
+Error de entrenamiento: 3624.483
+Error de prueba: 0.024
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 6 neuronas: 
+Error de entrenamiento: 1567.407
+Error de prueba: 0.023
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 7 neuronas: 
+Error de entrenamiento: 1636.786
+Error de prueba: 0.021
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 8 neuronas: 
+Error de entrenamiento: 2044.846
+Error de prueba: 0.011
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 9 neuronas: 
+Error de entrenamiento: 7673.550
+Error de prueba: 0.025
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 80 y 10 neuronas: 
+Error de entrenamiento: 2905.181
+Error de prueba: 0.021
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 4 neuronas: 
+Error de entrenamiento: 6999.541
+Error de prueba: 0.012
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 5 neuronas: 
+Error de entrenamiento: 17496.502
+Error de prueba: 0.012
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 6 neuronas: 
+Error de entrenamiento: 9379.769
+Error de prueba: 0.012
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 7 neuronas: 
+Error de entrenamiento: 2031.741
+Error de prueba: 0.011
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 8 neuronas: 
+Error de entrenamiento: 2182.747
+Error de prueba: 0.011
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 9 neuronas: 
+Error de entrenamiento: 2579.401
+Error de prueba: 0.007
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
+Configuacion de dataset con 90 y 10 neuronas: 
+Error de entrenamiento: 3018.737
+Error de prueba: 0.010
+Flasos setosa: 0
+Falsos versicolor: 0
+Falsos virginica: 0
